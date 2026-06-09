@@ -24,7 +24,7 @@ Translator Stage (MarianMT): Takes the generated summary, processes it through n
 
 1. Clone the Repository
 
-git clone [https://github.com/yourusername/AI-Summarization-Translation-System.git](https://github.com/yourusername/AI-Summarization-Translation-System.git)
+git clone [https://github.com/youssefmohamef/AI-Summarization-Translation-System.git](https://github.com/yourusername/AI-Summarization-Translation-System.git)
 cd AI-Summarization-Translation-System
 
 
